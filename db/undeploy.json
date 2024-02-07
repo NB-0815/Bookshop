@@ -1,0 +1,7 @@
+[
+  "src/gen/**/*.hdbtabledata",
+  "src/gen/**/*.csv",
+"src/gen/**/*.hdbview",
+"src/gen/**/*.hdbindex",
+"src/gen/**/*.hdbconstraint"
+]
